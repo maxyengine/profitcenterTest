@@ -1,5 +1,7 @@
 # profitcenterTest
 
+Calulate mode, median, standard deviation, average
+
 ## Results
 10^6 for 1 sec<br>
 10^7 for 4.9 sec<br>
