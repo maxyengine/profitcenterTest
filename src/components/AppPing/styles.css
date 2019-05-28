@@ -1,0 +1,21 @@
+.appPing {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.appPing .form {
+  display: flex;
+}
+
+.appPing .textInput label {
+  display: none;
+}
+
+.appPing .submit {
+  width: 60px;
+  height: 27px;
+  border: none;
+  background-color: #4d88ff;
+  color: #ffffff;
+  cursor: pointer;
+  margin: 5px 0 0 5px;
+}

@@ -1,0 +1,18 @@
+.appStat {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.appStat .submit {
+  width: 242px;
+  border: none;
+  background-color: #4d88ff;
+  padding: 8px 20px;
+  margin: 10px 0;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.appStat .result {
+  margin: 20px 0;
+}
+

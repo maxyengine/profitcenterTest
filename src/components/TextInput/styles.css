@@ -1,0 +1,22 @@
+.textInput {
+  display: flex;
+  padding: 5px 0;
+}
+
+.textInput label {
+  width: 50px;
+}
+
+.textInput input {
+  width: 180px;
+  padding: 5px;
+  border: #000000 1px solid;
+}
+
+.textInput input:hover {
+  background-color: #bbbbbb;
+}
+
+.textInput input:focus {
+  background-color: #fffc20;
+}
